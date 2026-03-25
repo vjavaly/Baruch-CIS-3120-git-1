@@ -21,6 +21,8 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 
 ## Student Entries:
 <!-- Students: Add your entries below this line! -->
+- **John-Paul Galan** (GitHub: jgal2): My favorite movie is Moneyball!
+
 **Jatin Talwar** (GitHub: Jatin930): My favorite movie is Spider Man 2
 - **Orest Kikina** (GitHub: okikina1): My favorite movie is Peaky Blinders!
 **Sael Perez** (GitHub: Sperez03-23): My favorite movie is Spider-Man: Across the Spider-Verse
