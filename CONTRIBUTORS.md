@@ -44,3 +44,4 @@ movie is Nunemberg
 - **Pyae Pyae Thu** (GitHub: ppyaethu1504): My favorite movie is The Greatest Showman.
 **Natalie Bojorquez** (GitHub: Natalie-Bojorquez): My favorite movie is Howl's Moving Castle. 
 Constantine Kampolis** (Github: ckampolis): My favorite movie is Limitless
+- **Hosung Lee** (GitHub: qdzc123): My favorite movie is Harry Potter
