@@ -19,6 +19,7 @@ This file lists all students contributing Homework 1
 
 ## Student contributors: 
 <!-- Students: Add your entries below this line! -->
+- **Isfar Hossain Hayat** (GitHub: Isfarhayat12) | Interstellar
 **Awa Lowe** (Github: AwaLowe08) | Moonlight 
 - **Lillian Kleess** (GitHub: Lilliankleess) | Spike Lee's Malcom X
 **Israt Jahan Taha** (Github: ishratjahan4315-lab) | Iron Man
